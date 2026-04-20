@@ -1,0 +1,24 @@
+DHBW Ravensburg · Grundlagen Data Science · Prof. Dr. A. Hoff - A4
+
+Projektarbeit / Aufgabe 4
+=======================
+
+Die Schüler der Oberstufe einer Internatsschule wurden nach dem monatlichen Taschengeld gefragt, 
+das sie von ihren Eltern bekommen. Die Datei DatSci_PKA26_4.csv enthält die bei dieser Befragung 
+angegebenen Werte.
+
+Untersuchen Sie die Verteilung der Taschengelder und beantworten Sie insbesondere die folgenden 
+Fragen:
+
+1. Geben Sie Mittelwert, Standardabweichung, Skewness und Kurtosis der Taschengeldverteilung an.
+
+2. Ist diese Verteilung symmetrisch oder schief? Falls die Verteilung schief ist: Geben Sie an, 
+   ob die Verteilung links- oder rechtsschief ist.
+
+3. Überlegen Sie sich mögliche Gründe, die zu dieser Verteilung geführt haben könnten.
+
+4. Sind die Taschengelder normalverteilt? Welche Abweichungen von der Normalverteilung können 
+   Sie ggf. feststellen? Falls die Taschengelder nicht normalverteilt sind: Welche Verteilung 
+   liegt hier vor?
+
+5. Versuchen Sie, die Taschengeldverteilung durch ein quantitatives Modell zu beschreiben.
